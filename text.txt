@@ -1,0 +1,7 @@
+Another w video from Tech with Tim! 
+Table of Contents: 
+1. Setup a Django Project
+2. Configure URLS 
+3. Create Database Models
+4. Render Dynamic Data with Templates
+5. Use the Django Admin Panel
